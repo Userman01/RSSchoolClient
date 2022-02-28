@@ -1,2 +1,2 @@
 # RSSchoolClient
-for use git
+just use git
